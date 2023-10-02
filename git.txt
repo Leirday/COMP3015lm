@@ -1,5 +1,0 @@
-git:
-
-u: Leirday
-e: elielo_yadriel@hotmail.com
-p:
